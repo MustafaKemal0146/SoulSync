@@ -2,6 +2,7 @@
 
 SoulSync, şarkı sözlerini analiz ederek duygusal içeriğini değerlendiren bir terminal uygulamasıdır. Yapay zeka kullanarak şarkıların duygusal yoğunluğunu ölçer ve beş temel duygu kategorisinde skorlar üretir.
 
+[![Hits](https://hits.sh/github.com/MustafaKemal0146/SoulSync.svg?style=for-the-badge&color=0089e9)](https://hits.sh/github.com/MustafaKemal0146/SoulSync/)
 ## Özellikler
 
 - 🎵 Şarkı sözleri otomatik arama ve çekme
