@@ -93,7 +93,7 @@ Analiz Özeti: Bu şarkı ağırlıklı olarak aşk duygusunu ifade ediyor.
 
 ## İletişim
 
-Mustafa Kemal Gökçe
+Mustafa Kemal Çıngıl
 
 - LinkedIn: [Mustafa Kemal Çıngıl](https://www.linkedin.com/in/mustafakemalcingil/)
 - GitHub: [@mustafakemal0146](https://github.com/mustafakemal0146)
